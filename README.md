@@ -3,6 +3,9 @@
 -	I’m currently learning DSA and Web Development.
 -	I’m an active sportsperson and am fond of dancing and travelling.
 
+
+<img src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashika27)](https://github.com/anuraghazra/github-readme-stats)
+" />
 <!--
 **Yashika27/Yashika27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
