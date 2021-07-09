@@ -1,4 +1,7 @@
 ### Hi there 👋
+•	I’m Yashika Lamba, a junior undergraduate at IIT (BHU).
+•	I’m currently learning DSA and Web Development.
+•	I’m an active sportsperson and am fond of dancing and travelling.
 
 <!--
 **Yashika27/Yashika27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
