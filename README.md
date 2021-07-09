@@ -3,7 +3,13 @@
 -	I’m currently learning DSA and Web Development.
 -	I love to dance, travel, and socialize.
 
+### Connect with me:
 
+[My website<img align="left" alt="Sabesan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]</br><br />
+[LinkedIn<img align="left" alt="Sabesan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/yashika-lamba-565ab9196/)<br /><br />
+<!-- [Instagram<img align="left" alt="Sabesan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/__n.dahiya__/) -->
+
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashika27)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashika27)](https://github.com/anuraghazra/github-readme-stats)
