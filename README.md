@@ -1,6 +1,6 @@
 ### Hi there 👋
--	I’m Yashika Lamba, a junior undergraduate at IIT (BHU).
--	I’m currently learning DSA and Web Development.
+-	I’m Yashika Lamba, a senior undergraduate at IIT (BHU).
+-	I’m currently learning DSA and Software Development.
 -	I love to dance, travel, and socialize.
 
 ### Connect with me:
